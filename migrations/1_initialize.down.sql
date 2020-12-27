@@ -1,0 +1,2 @@
+DROP SCHEMA common CASCADE;
+DROP SCHEMA accounts CASCADE;
