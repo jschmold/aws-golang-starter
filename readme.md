@@ -70,7 +70,11 @@ See `config.go` in the root folder to see what is loaded application-wide.
 ## Commands
 
 `make` will build the services in the `services` folder
+
 `make e2e` will run the integration tests
+
 `make test` will run all the unit tests in the modules folder
+
 `make deploy` will deploy the services using your local install of serverless
+
 `make migrator`
